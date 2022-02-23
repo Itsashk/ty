@@ -1,0 +1,20 @@
+body {
+  background-color: orange;
+}
+h1 {
+  color: darkred;
+} 
+h3 {
+  color: green;
+}
+p {
+  color: black;
+  font: Times;
+}
+
+.marquee {
+width: 300px;
+overflow: hidden;
+border: 1px solid #ccc;
+background: #ccc;
+}
